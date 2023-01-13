@@ -13,7 +13,7 @@ setup(
   name = "sensor",
   version = "0.0.1",
   author = "Preetirai",
-  author_email = "preetirai1812@yahoo.com",
+  author_email = "preetirai1812@gmail.com",
   packages = find_packages(),
   install_requires = get_requirements(),
 )
